@@ -6,7 +6,7 @@
 
 为了帮助理解原文档的接口之间入参和返参之间的关系，方便调用并附有代码实现
 
-[代码地址](https://gitee.com/flickerchen/template.git)
+[代码地址](https://github.com/cugZhaoHeng/wazy-docsify)
 
 因为需要鉴权，所以在postman上无法调通，只有通过代码封装来获取结果
 
